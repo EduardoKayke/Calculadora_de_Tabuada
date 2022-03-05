@@ -1,8 +1,10 @@
 # Calculadora de Tabuada
 
 ## Sobre o projeto.
-Tabuada desenvolvida com JavaScript, CSS e HTML. Mostrando números de 0 a 10 pelo valor escolhido de calculo. Dando assim o resultado de multiplicações. <br><br>
-Data de conclusão: 27/10/2021<br><br>
+Tabuada desenvolvida com JavaScript, CSS e HTML. Mostrando números de 0 a 10 pelo valor escolhido de calculo. Dando assim o resultado de multiplicações. 
+
+Data de conclusão: 27/10/2021
+
 ## Ferramentas e tecnologias usadas nesse projeto.
 ```js    
 function Tabuada(Project) {
