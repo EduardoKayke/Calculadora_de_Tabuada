@@ -16,7 +16,7 @@ function Tabuada(Project) {
 
 <div align="center">
 
-<img src="Projeto/assets/img/readme1.png" alt="Tabuada" width="800"/>
+<img src="Projeto/assets/img/readme1.png" alt="Tabuada" width="600"/>
 
 </div>
 
